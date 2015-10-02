@@ -1,4 +1,5 @@
 [
-"yoda-quotes.coffee",
-"weather.coffee"
+  "yoda-quotes.coffee",
+  "twitter.coffee",
+  "weather.coffee"
 ]
