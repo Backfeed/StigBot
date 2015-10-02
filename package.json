@@ -5,6 +5,8 @@
   "author": "Yaniv Keinan <yanivkeinan@gmail.com>",
   "description": "supports efficient collaboration between extremely simple agents, who lack any memory, intelligence or even individual awareness of each other",
   "dependencies": {
+    "twit": "1.1.6",
+    "underscore": "1.4.4",
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-repo-event-notifier": ">= 0.0.0",
