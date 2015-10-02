@@ -19,6 +19,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "hubot-trello-organization": "0.0.2",
     "oauth": "^0.9.14",
     "twit": "1.1.6",
     "underscore": "1.4.4"
