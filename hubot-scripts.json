@@ -1,5 +1,6 @@
 [
 "yoda-quotes.coffee",
 "trello.coffee",
+"tweet.coffee",
 "weather.coffee"
 ]
