@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-github-repo-event-notifier",
-  "hubot-trello-organization"
+  "hubot-trello-organization",
+  "hubot-trello-webhook"
 ]
