@@ -6,6 +6,7 @@
   "description": "supports efficient collaboration between extremely simple agents, who lack any memory, intelligence or even individual awareness of each other",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-brain-inspect": "0.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-repo-event-notifier": ">= 0.0.0",
     "hubot-google-images": "^0.2.2",
