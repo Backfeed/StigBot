@@ -12,6 +12,5 @@
   "hubot-github-repo-event-notifier",
   "hubot-trello-organization",
   "hubot-brain-inspect",
-  "hubot-stigify-twitter",
   "hubot-trello-webhook"
 ]
