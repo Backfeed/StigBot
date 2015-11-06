@@ -1,4 +1,6 @@
 [
   "yoda-quotes.coffee",
+  "twitter.coffee",
+  "twitter_mention.coffee",
   "weather.coffee"
 ]
