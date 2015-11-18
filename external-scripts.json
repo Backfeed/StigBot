@@ -12,5 +12,6 @@
   "hubot-github-repo-event-notifier",
   "hubot-trello-organization",
   "hubot-brain-inspect",
-  "hubot-trello-webhook"
+  "hubot-trello-webhook",
+  "hubot-standup-alarm"
 ]
