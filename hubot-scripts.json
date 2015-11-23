@@ -2,5 +2,11 @@
   "yoda-quotes.coffee",
   "twitter.coffee",
   "twitter_mention.coffee",
-  "weather.coffee"
+  "weather.coffee",
+  "serenity.coffee",
+  "meme_captain.coffee",
+  "jordan.coffee",
+  "disassemble.coffee",
+  "xkcd.coffee",
+  "yoda-pictures.coffee"
 ]
