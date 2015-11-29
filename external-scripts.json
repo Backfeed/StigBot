@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-github-repo-event-notifier",
   "hubot-brain-inspect",
-  "hubot-standup-alarm"
+  "hubot-standup-alarm",
+  "hubot-equation",
+  "hubot-pomodoro"
 ]
