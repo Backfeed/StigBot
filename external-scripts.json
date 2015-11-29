@@ -13,5 +13,6 @@
   "hubot-brain-inspect",
   "hubot-standup-alarm",
   "hubot-equation",
-  "hubot-pomodoro"
+  "hubot-pomodoro",
+  "hubot-events"
 ]
