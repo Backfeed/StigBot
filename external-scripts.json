@@ -14,5 +14,6 @@
   "hubot-standup-alarm",
   "hubot-equation",
   "hubot-pomodoro",
-  "hubot-events"
+  "hubot-events",
+  "hubot-slack-attachment"
 ]
