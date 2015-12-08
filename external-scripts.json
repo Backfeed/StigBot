@@ -15,5 +15,6 @@
   "hubot-equation",
   "hubot-pomodoro",
   "hubot-events",
-  "hubot-slack-attachment"
+  "hubot-slack-attachment",
+  "hubot-cron"
 ]
