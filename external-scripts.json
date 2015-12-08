@@ -16,5 +16,6 @@
   "hubot-pomodoro",
   "hubot-events",
   "hubot-slack-attachment",
-  "hubot-cron"
+  "hubot-cron",
+  "hubot-outofcontext"
 ]
